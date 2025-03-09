@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 | AWS Certified Solutions Architect – Associate | Amazon Web Services Training and Certification | 2025.02.28 |
 | PCCP (Programmers Certified Coding Professional) Java Lv.5 | (주)그렙 | 2024.11.23 |
 | SQLD | 한국데이터산업진흥원 | 2024.09.20 |
-| OPIc(Eng) - IM2 | ACTFL | 2024.03.11 |
-| HSAT(8차 Softeer 정기 역량 진단) Level 3 | 현대엔지비 | 2023.12.27 |
+| OPIc (Eng) - IM2 | ACTFL | 2024.03.11 |
+| HSAT (8차 Softeer 정기 역량 진단) Level 3 | 현대엔지비 | 2023.12.27 |
 | 정보처리기사 | 한국산업인력공단 | 2023.06.09 |
 
 ## 🎓 Education
