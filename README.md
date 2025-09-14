@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 | Institution | Program/Major | Period |
 |:----------:|:------------:|:------:|
 | SSAFY 10th | Java, Web Programming Course | 2023.07 ~ 2024.06 |
+| OO University | Computer Electronic Systems Engineering | 2017.02 ~ 2023.08 |
+<!--
 | Hankuk University of Foreign Studies | Computer Electronic Systems Engineering | 2017.02 ~ 2023.08 |
+-->
 
 ## 🔥 Stats
 | Github Stats | Problem Solving |
@@ -49,4 +52,6 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjhjack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
