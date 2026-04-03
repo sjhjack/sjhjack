@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 | Institution | Program/Major | Period |
 |:----------:|:------------:|:------:|
 | SSAFY 10th | Java, Web Programming Course | 2023.07 ~ 2024.06 |
-| OO University | Computer Electronic Systems Engineering | 2017.02 ~ 2023.08 |
-<!--
 | Hankuk University of Foreign Studies | Computer Electronic Systems Engineering | 2017.02 ~ 2023.08 |
+<!--
+| OO University | Computer Electronic Systems Engineering | 2017.02 ~ 2023.08 |
 -->
 
 ## 🔥 Stats
